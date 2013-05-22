@@ -1,0 +1,3 @@
+git+https://github.com/tumblr/pytumblr.git
+docopt
+progressbar
